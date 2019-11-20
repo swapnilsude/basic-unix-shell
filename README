@@ -1,0 +1,5 @@
+install the readline library
+sudo apt-get install libreadline-dev
+
+use command to make the binary:
+gcc shell_swapnil.c -o shell_swapnil -lreadline
