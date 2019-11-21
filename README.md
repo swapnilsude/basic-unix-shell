@@ -11,4 +11,4 @@ sudo apt-get install libreadline-dev
 gcc shell_swapnil.c -o shell_swapnil -lreadline
 
 ## Ongoing work:
-Adding support for multiple pipe command (greater than two).
+Adding support for multiple pipe and "&" command (greater than two).
